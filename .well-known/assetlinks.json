@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ua.doit",
+      "sha256_cert_fingerprints": ["80:4D:CB:74:97:D0:A4:FA:D4:A7:31:B8:70:31:C1:A9:4C:C5:8A:72:29:A9:76:C4:76:5A:1B:6C:90:20:01:C3"]
+    }
+  }
+]

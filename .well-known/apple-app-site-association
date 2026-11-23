@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["PFV2G56ZHZ.com.ua.doit"],
+        "components": [{ "/": "/doit/open/*", "comment": "DoIt smart links (artemBoUA/doit, public/open)" }]
+      }
+    ]
+  }
+}
